@@ -14,12 +14,10 @@ body{
 }
 /*--fonts--*/
 @font-face{
-	font-family: 'Didact Gothic';
-	src:url(../fonts/Didact_Gothic/DidactGothic.ttf) format('truetype');
+	font-family: 'Times New Roman';
 }
 @font-face{
-	font-family: 'Pathway Gothic One';
-	src:url(../fonts/Pathway_Gothic_One/PathwayGothicOne-Regular.ttf) format('truetype');
+	font-family: 'Times New Roman';
 }
 .header-top{
     position: relative;
@@ -32,7 +30,7 @@ body{
     right: 0%;
 }
 .logo a,.logo a:hover {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     background-color: #A5E126;
     text-transform: uppercase;
     text-decoration: none;
@@ -47,7 +45,7 @@ a.log-bar {
     border-radius: 0;
     border: 0;
     padding: 4px 12px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-weight: 400;
     font-size: 16px;
     text-transform: capitalize;
@@ -61,7 +59,7 @@ a.log-bar:hover,a.log-bar:focus{
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Pathway Gothic One', 'Didact Gothi';
+    font-family: 'Times New Roman', 'Arial';
 }
 .nav-menu{
     background: transparent;
@@ -172,7 +170,7 @@ a.log-bar:hover,a.log-bar:focus{
 ul.nav-font>li>a{
     font-size: 17px;
     color: #100b0b !important;
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
     font-weight: 400;
 }
 ul.nav-font>li>a:hover{
@@ -256,7 +254,7 @@ span.color-bar{
 }
 .fall-left h3,.feel-right h3{
     font-size: 50px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     color: #100b0b;
     text-transform: uppercase;
     margin-bottom: 15px;
@@ -337,7 +335,7 @@ span.fel-fal-bar2{
     z-index: 999;
 }
 .styl-hdn h3 {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     text-transform: uppercase;
     color: #272323;
     text-align: left;
@@ -352,7 +350,7 @@ span.fel-fal-bar2{
 }
 
 .styl-price p {
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
     font-size: 20px;
     position: relative;
     color: #FFFFFF;
@@ -404,7 +402,7 @@ span.fel-fal-bar2{
     font-size: 15px;
 }
 .quick-view a {
-     font-family: 'Pathway Gothic One';
+     font-family: 'Times New Roman';
     background-color: #A5E126;
     padding: 5px;
     font-weight: 400;
@@ -436,7 +434,7 @@ span.fel-fal-bar2{
 }
 .sub-news h3 {
     margin-bottom: 15px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     text-transform: uppercase;
     font-weight: bold;
     font-size: 38px;
@@ -446,7 +444,7 @@ li.ad-2-crt a:nth-child(2) {
     margin-top: 20px;
 }
 input.sub-email {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     padding: 7px;
     width: 40%;
     border: 2px solid #100b0b;
@@ -454,7 +452,7 @@ input.sub-email {
     font-size: 18px;
 }
 a.subs-btn {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     border: none;
     border-right: 2px solid #000;
     border-bottom: 2px solid #000;
@@ -484,7 +482,7 @@ a.subs-btn:hover{
     padding: 3em 0;
 }
 .re-ft-grd h3{
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
     font-weight: 700;
     text-transform: uppercase;
     font-size: 18px;
@@ -493,7 +491,7 @@ a.subs-btn:hover{
     text-shadow: none;
 }
 ul.categories li a,ul.shot-links li a{
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
     color: #100b0b;
     font-size: 16px;
     font-weight: 400;
@@ -547,7 +545,7 @@ a.ft-log, a.ft-log:hover {
     margin-top: 20px;
 }
 .copy-rt p {
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
     color: #100b0b;
     font-weight: 700;
     font-size: 17px;
@@ -589,7 +587,7 @@ ol.breadcrumb li a {
     text-transform: uppercase;
     font-weight: bold;
     color: #100B0B;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-size: 36px;
     text-shadow: none;
 }
@@ -598,14 +596,14 @@ ol.breadcrumb li a:hover{
     color: #fb4c29;
 }
 .breadcrumb>.active {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     color: #fb4c29;
     font-weight: 600;
     font-size: 36px;
 }
 
 .breadcrumb>.active a {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     color: #fb4c29;
     font-weight: 600;
     font-size: 36px;
@@ -613,7 +611,7 @@ ol.breadcrumb li a:hover{
 
 .breadcrumb {
     background-color: #FFFFFF;
-		font-family: 'Pathway Gothic One';
+		font-family: 'Times New Roman';
 		font-weight: 600;
 		font-size: 36px;
 }
@@ -631,7 +629,7 @@ ol.breadcrumb li a:hover{
     text-transform: uppercase;
     font-weight: bold;
     font-size: 35px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     color: #100B0B;
 }
 .shoe-name h4{
@@ -649,7 +647,7 @@ ol.breadcrumb li a:hover{
 }
 .shoe-name p {
     color: #aaa;
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
     font-weight: 700;
     font-size: 15px;
     font-style: italic;
@@ -674,7 +672,7 @@ li.qty {
 .form-control.siz-chrt,.form-control.qnty-chrt{
     background: #FFFFFF;
     color: #545454;
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
 }
 .form-control.siz-chrt:focus,.form-control.qnty-chrt:focus   {
     outline: 0;
@@ -690,7 +688,7 @@ option {
 .shocase-rt-bot h3 {
     font-size: 22px;
     text-transform: uppercase;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-weight: 100;
     color: #aaa;
     margin-bottom: 5px;
@@ -698,7 +696,7 @@ option {
 li.qty h4{
     font-size: 22px;
     text-transform: uppercase;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-weight: 100;
     margin-bottom: 5px;
     color: #aaa;
@@ -710,7 +708,7 @@ li.ad-2-crt a {
     width: 100%;
     background: #100b0b;
     color: #fff;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-size: 18px;
     border: none;
     border-radius: 0;
@@ -728,7 +726,7 @@ li.ad-2-crt a:hover{
 h3.you-might{
     text-transform: uppercase;
     font-weight: bold;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-size: 40px;
     margin-bottom: 20px;
     color: #100b0b;
@@ -737,7 +735,7 @@ h3.you-might{
     text-transform: uppercase;
     font-weight: bold;
     font-size: 27px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     color: #100B0B;
     margin:15px 0px;
 }
@@ -749,14 +747,14 @@ h3.you-might{
     font-size: 15px;
     color: #aaa;
     text-transform: capitalize;
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
 }
 .specifications{
     padding: 3em 0;
     text-align: left;
 }
 .specifications h3 {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     text-transform: uppercase;
     color: #100b0b;
     font-weight: 600;
@@ -774,7 +772,7 @@ div#profile p,div#home p,div#messages {
 }
 .tab-nike>li>a{
     color: #100b0b;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-weight: 600;
     font-size: 20px;
 }
@@ -804,7 +802,7 @@ a.continue,a.order {
     font-weight: 600;
     text-align: center;
     margin-bottom: 2em;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     text-transform: uppercase;
 }
 a.continue:hover, a.order:hover{
@@ -818,7 +816,7 @@ a.order{
     color: #100b0b;
     font-size: 25px;
     margin-bottom: 1em;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
 }
 .price-details span {
     width: 50%;
@@ -843,7 +841,7 @@ li.last_price span {
     color: #655858;
 }
 .cart-items h1 {
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     font-size: 35px;
     margin-bottom: 20px;
     font-weight: 400;
@@ -906,7 +904,7 @@ ul.qty li {
     text-transform: uppercase;
     color: #100B0B;
     font-size: 18px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
 }
 span.glyphicon.glyphicon-minus {
     color: #fff;
@@ -928,7 +926,7 @@ ul.place li {
     cursor: pointer;
     display: inline-block;
     padding: 6px;
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
 }
 ul.place li.sort {
     float: left;
@@ -956,14 +954,14 @@ input#amount {
     margin: 0;
     font-size: 28px;
     color: #100B0B;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
 }
 .log p {
     color: #aaa;
     margin: 22px 0;
     font-size: 15.5px;
     line-height: 1.8em;
-    font-family: 'Didact Gothic';
+    font-family: 'Times New Roman';
     font-weight: 100;
 }
 .log p a{
@@ -974,7 +972,7 @@ input#amount {
     font-size: 16px;
     text-transform: capitalize;
     margin: 0 0 10px 0;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
 }
 .log form input[type="text"], .log form input[type="password"] {
     width: 70%;
@@ -1041,7 +1039,7 @@ input#amount {
     font-size: 35px;
     color: #100b0b;
     margin: 0 0 20px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
 }
 .reg p {
     color: #6B5E5E;
@@ -1121,7 +1119,7 @@ div textarea {
     outline: none;
 }
 .contact h3{
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     text-transform: uppercase;
     color: #100b0b;
     font-weight: 600;
@@ -1138,7 +1136,7 @@ div textarea {
     font-weight: 600;
     text-align: center;
     margin:18px 0px;
-    font-family: 'Pathway Gothic One';
+    font-family: 'Times New Roman';
     text-transform: uppercase;
     width: 15%;
     border-radius: 0;
